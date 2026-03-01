@@ -2,27 +2,65 @@
 
 Flutter Developer with 4+ years of experience building production-ready mobile applications available on the App Store and Google Play.
 
-## 🚀 Key Projects
+I specialize in scalable mobile architecture, real-time systems, and payment integrations.
 
-### Lobblr – Social Media & Business Platform
+---
+
+## 🚀 Professional Experience
+
+### Remote Flutter Developer (France-based project)
+
+Worked on a large-scale social media & business platform including:
+
 - Real-time chat & feed updates
-- Online/offline presence
+- Online/offline presence tracking
+- Background polling with update indicators
 - PayPal payments integration
-- QR code order confirmation
-- Clean Architecture with BLoC
+- QR code-based order confirmation
+- Multi-role system (users & business pages)
 
-🔗 App Store: https://apps.apple.com/us/app/lobblr/id1527454600
-
----
-
-## 🛠 Tech Stack
-Flutter • Dart • BLoC • Firebase • REST APIs • FCM • Clean Architecture • Git
+> 🔒 Source code is private due to client ownership.
 
 ---
 
-## 🌍 Experience
-Remote Flutter Developer (France-based team)
+## 🛠 Technical Expertise
+
+- Flutter & Dart
+- BLoC / Cubit State Management
+- Clean Architecture
+- RESTful APIs Integration
+- Firebase (Auth, Firestore, FCM)
+- Real-time systems
+- Push Notifications
+- Payment Gateway Integration (PayPal)
+- Git & Version Control
 
 ---
 
-Feel free to explore my repositories and connect with me.
+## 📱 Published Applications
+
+Production applications available on stores:
+
+- Social Media & Business Platform (App Store)
+  https://apps.apple.com/us/app/lobblr/id1527454600
+
+---
+
+## 🧠 Engineering Approach
+
+- Focus on scalable architecture
+- Performance optimization
+- Clean, maintainable code
+- Separation of concerns
+- Production-ready deployments
+
+---
+
+## 🌍 Location
+
+Alexandria, Egypt  
+Open to Remote & International Opportunities
+
+---
+
+Feel free to explore my public repositories and connect with me.
