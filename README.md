@@ -53,6 +53,8 @@ Production applications available on stores:
 - Clean, maintainable code
 - Separation of concerns
 - Production-ready deployments
+- Designed scalable BLoC-based architecture to ensure maintainability.
+- Improved feed refresh performance and user experience.
 
 ---
 
