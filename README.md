@@ -1,8 +1,8 @@
 # Mohamed Habashi
 
-Flutter Developer with 4+ years of experience building production-ready mobile applications available on the App Store and Google Play.
+Frontend & Mobile Developer specializing in **Angular and Flutter**, with experience building production-ready applications and scalable systems.
 
-I specialize in scalable mobile architecture, real-time systems, and payment integrations.
+I focus on clean architecture, responsive interfaces, and building maintainable applications that integrate seamlessly with modern APIs.
 
 ---
 
@@ -10,9 +10,9 @@ I specialize in scalable mobile architecture, real-time systems, and payment int
 
 ### Remote Flutter Developer (France-based project)
 
-Worked on a large-scale social media & business platform including:
+Worked on a large-scale **social media & business platform** including:
 
-- Real-time chat & feed updates
+- Real-time chat and feed updates
 - Online/offline presence tracking
 - Background polling with update indicators
 - PayPal payments integration
@@ -23,46 +23,80 @@ Worked on a large-scale social media & business platform including:
 
 ---
 
-## 🛠 Technical Expertise
+## 🌐 Web Development Projects
 
-- Flutter & Dart
-- BLoC / Cubit State Management
-- Clean Architecture
-- RESTful APIs Integration
-- Firebase (Auth, Firestore, FCM)
-- Real-time systems
-- Push Notifications
-- Payment Gateway Integration (PayPal)
-- Git & Version Control
+### Angular E-Commerce Application
+
+A responsive **e-commerce web application built with Angular**.
+
+Features include:
+
+- Product catalog and product details pages
+- Shopping cart functionality
+- Route protection using Angular Guards
+- Reactive Forms
+- API integration using HttpClient
+- Loading states and error handling
+- Responsive layout
+
+Repository:  
+https://github.com/Mohamed-Habashi/angular-ecommerce-app
 
 ---
 
-## 📱 Published Applications
+## 📱 Published Mobile Applications
 
-Production applications available on stores:
+Production mobile applications available on stores:
 
-- Social Media & Business Platform (App Store)
-  https://apps.apple.com/us/app/lobblr/id1527454600
+Social Media & Business Platform  
+https://apps.apple.com/us/app/lobblr/id1527454600
+
+---
+
+## 🛠 Technical Skills
+
+### Frontend
+- Angular
+- TypeScript
+- RxJS
+- Reactive Forms
+- REST API Integration
+- HTML
+- CSS
+
+### Mobile
+- Flutter
+- Dart
+- BLoC / Cubit State Management
+
+### Backend & Integration
+- RESTful APIs
+- Firebase (Auth, Firestore, FCM)
+- Payment Gateway Integration (PayPal)
+
+### Development Tools
+- Git
+- Version Control
+- Clean Architecture
+- Agile workflows
 
 ---
 
 ## 🧠 Engineering Approach
 
-- Focus on scalable architecture
+- Writing clean and maintainable code
+- Building scalable architectures
 - Performance optimization
-- Clean, maintainable code
 - Separation of concerns
 - Production-ready deployments
-- Designed scalable BLoC-based architecture to ensure maintainability.
-- Improved feed refresh performance and user experience.
 
 ---
 
 ## 🌍 Location
 
 Alexandria, Egypt  
-Open to Remote & International Opportunities
+Open to **Remote & International Opportunities**
 
 ---
 
-Feel free to explore my public repositories and connect with me.
+Feel free to explore my repositories and connect with me.
